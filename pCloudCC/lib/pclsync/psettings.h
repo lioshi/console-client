@@ -40,7 +40,7 @@
 #define PSYNC_API_PORT_SSL 8399
 */
 
-#define PSYNC_API_HOST     "binapi.pcloud.com"
+#define PSYNC_API_HOST     "bineapi.pcloud.com"
 #define PSYNC_API_PORT     80
 #define PSYNC_API_PORT_SSL 443
 
