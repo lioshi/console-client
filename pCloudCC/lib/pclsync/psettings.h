@@ -44,7 +44,7 @@
 #define PSYNC_API_PORT     80
 #define PSYNC_API_PORT_SSL 443
 
-#define PSYNC_API_AHOST     "eapi.pcloud.com"
+#define PSYNC_API_AHOST     "api.pcloud.com"
 #define PSYNC_API_APORT     8398
 #define PSYNC_API_APORT_SSL 8399
 
